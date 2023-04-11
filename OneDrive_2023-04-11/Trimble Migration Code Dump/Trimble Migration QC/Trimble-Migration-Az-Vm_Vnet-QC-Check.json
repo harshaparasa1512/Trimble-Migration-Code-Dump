@@ -1,0 +1,8 @@
+{
+    "InputFolderPath": "D:\\OneDrive - Innominds Software Private Limited\\Development+\\Trimble-Migration-QC-Automation\\Input\\Temp",
+    "OutputFolderPath": "D:\\OneDrive - Innominds Software Private Limited\\Development+\\Trimble-Migration-QC-Automation\\Output",
+    "AzTenantID": "65911ec9-c247-4e7f-b3e5-239b468be687",
+    "SubscriptionName": "CSS",
+    "ResourceType": "VM",
+    "SendEmail": 0
+}

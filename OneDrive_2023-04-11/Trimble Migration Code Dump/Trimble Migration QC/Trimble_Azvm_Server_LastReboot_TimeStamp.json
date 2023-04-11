@@ -1,0 +1,8 @@
+{
+    "TenantID": "65911ec9-c247-4e7f-b3e5-239b468be687",
+    "SubscriptionID": "d9995d5e-baa7-4e6b-81d5-2ee203b363ea",
+    "SubscriptionName": "CSS",
+    "Azlocation": "eastus2",
+    "ResourceGroupName": "HRT_Heritage_Transport",
+    "AzVmInstances":"HRT-DC01,HRT-APP01,HRT-AGT01,HRT-AGT03,HRT-SQL01,HRT-SQL02,HRT-SQL03"
+}

@@ -1,0 +1,28 @@
+Parameter,ExpectedValue
+VMName,HRT-DC01
+CPU,2
+MemoryinGB,8
+AzureVMType,Standard_D2as_v5
+ManagedDisk,TRUE
+OSDiskInGB,128
+DataDiskInGB,NA
+TempDisk,NA
+Operating System,Windows (Windows Server 2012 R2 Standard)
+Tag - Product | product-name,NA
+Tag - business-unit,NA
+Tag - team,NA
+Tag - billing,NA
+Tag - environment,NA
+Tag - Primary-contact-email,NA
+Tag - Primary-contact-name,NA
+Tag - customer | customer-name,NA
+Tag - automation-opt-in,NA
+RGLock,TRUE
+IPAddress,172.22.151.68
+GuestLevelMonitoring,TRUE
+Storage account,hrtstorageaccount
+BackupVault,hrtrecoveryvault
+vNet,Vnet-Eastus2-HRT
+SubnetName,Subnet-Eastus2-HRT
+HybridBenefit,FALSE
+ResourceGroup,HRT_Heritage_Transport
